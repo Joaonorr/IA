@@ -1,0 +1,1 @@
+Repositório para desenvolvimento dos projetos da disciplina de IA
